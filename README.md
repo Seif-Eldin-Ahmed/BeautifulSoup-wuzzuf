@@ -8,13 +8,13 @@
 - To install it we using this command in terminal in python code:
     - pip install bs4
 
-
+#
 ### There is also **"Flask"**, but what is flask first:
 - Flask is a simple Python tool that helps you easily build secure and scalable websites.
 - To install it we using this command in terminal in python code:
     - pip install flask
 
-
+#
 ### And Finally There is **"Requests"**:
 - Allow you to send HTTP requests extremely easily, To move freely between pages.
 - To install it we using this command in terminal in python code:
