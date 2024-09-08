@@ -1,6 +1,6 @@
 # BeautifulSoup-wuzzuf_Project
-###
-###
+##
+##
 ### First of all, **"Beautiful Soup"**, what does it mean:
 - BeautifulSoup is a Python library used for web scraping, pulling data out of HTML and XML files, It’s a powerful tool for extracting data from web pages.
 - Use it in:
