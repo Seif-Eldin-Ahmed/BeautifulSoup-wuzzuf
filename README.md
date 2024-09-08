@@ -24,7 +24,7 @@
 
 -------------------------------
 
-This is our first project using the **"_Beautiful Soup_"**, which talks about sending a request to the **"_wuzzuf_"** website address to accept it and processing the site data contained within the content of the _HTML_ code of the page to fetch from It data about the jobs available on the site in terms of some information and sending this data to the CSV file, and this information is:
+This is our first project using the **"_Beautiful Soup_"**, which talks about sending a request to the **"_wuzzuf_"** website address to accept it and processing the site data contained within the content of the _HTML_ code of the page to fetch from It data about the jobs available on the site in terms of some information and sending this data to the **"_CSV_"** file, and this information is:
 - job title
 - company name
 - location
